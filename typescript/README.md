@@ -1,0 +1,1 @@
+# TypeScript Linter (prettier)
